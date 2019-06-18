@@ -1,8 +1,6 @@
 ---
 title: "Summary of short data repository survey"
-output:
-  html_document: default
-  pdf_document: default
+output: github_document
 ---
 
 Our [group](http://cmn.nimh.nih.gov/dsst) is interested in making data more easily accessible for secondary use. On the morning of June 11th, immediately following the [2019 OHBM Hackathon](https://ohbm.github.io/hackathon2019/), we posted a short survey asking people about the use of data repositories used in neuroscience. We promoted the survey on twitter, and received 25 responses over the next few days. Though the methodology of our approach leaves much to be desired, we still think the data we collected is interesting, and points at some pressing questions for the use of data repositories in neuroscience and across the sciences generally.
