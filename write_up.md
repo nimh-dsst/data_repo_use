@@ -197,4 +197,4 @@ across the board.
 All data and code for this writeup are at
 <https://github.com/riddlet/data_repo_use>
 
-Thanks to the [OHBM OpenScience SIG](https://www.humanbrainmapping.org/m/pages.cfm?pageid=3712) and [Kirstie Whitaker](https://twitter.com/kirstie_j) for support and feeback. 
+Thanks to the [OHBM OpenScience SIG](https://www.humanbrainmapping.org/m/pages.cfm?pageid=3712) and [Kirstie Whitaker](https://twitter.com/kirstie_j) for support and feedback. 
